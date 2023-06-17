@@ -1,8 +1,10 @@
 
 ### Olá! Eu sou Fábio Gabriel 🤙
 
-💻 Sou Desenvolvedor Web FrontEnd 
+💻 Sou Desenvolvedor Web FrontEnd  
+
 📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
+
 ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
 
 
@@ -15,6 +17,9 @@
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GbrSCR23&show_icons=true&theme=dracula) 
 ## Tecnologias que eu uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrSCR23)](https://github.com/anuraghazra/github-readme-stats)
+
+
+© Developer 2021 - 2023 - Perfil de Fábio Gabriel Dos Santos (GBRSCR23) 🍃
 
 
 
