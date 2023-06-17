@@ -1,6 +1,11 @@
 
 ### Olá! Eu sou Fábio Gabriel 🤙
 
+💻 Sou Desenvolvedor Web FrontEnd 
+📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
+♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
+
+
  
 [![Blog](https://img.shields.io/website?label=Portfólio.com&style=for-the-badge&url=https://sujeitoprogramador.com
 )](https://gbrscr23.github.io/FabioGabriel.github/)
